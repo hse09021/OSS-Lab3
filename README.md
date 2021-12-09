@@ -41,7 +41,7 @@ Docker Hub 링크: https://hub.docker.com/r/hse09021/oss-lab3/
   \
 **6. 종료**\
   Linked list의 데이터를 DB.txt에 덮어써서 저장\
-  새로 덮어써서 저장하기 때문에 쓰레기 값 발생 가능성 감소\
+  새로 덮어써서 저장하기 때문에 쓰레기 값 발생 가능성 감소
 
 ### 향후 발전 방향
 GUI 추가, MySQL Connector 활용, 업무 자동화
