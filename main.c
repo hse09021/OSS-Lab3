@@ -18,7 +18,7 @@ typedef struct node {
 void menu() {
     printf("행사 관리 프로그램입니다.\n\n");
     printf("1. 신청하기\n");
-    printf("2. 신청 정보 수정하기(준비중)\n");
+    printf("2. 신청 정보 수정하기\n");
     printf("3. 삭제하기(관리자용)\n");
     printf("4. 신청명단 보기(관리자용)\n");
     printf("5. 비밀번호 변경하기(관리자용)\n");
